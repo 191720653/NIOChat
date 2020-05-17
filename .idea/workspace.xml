@@ -14,6 +14,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -23,6 +26,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1c1PWzwdokHKPsc95dZFYTs5Xew" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -121,7 +125,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1589693161527</updated>
-      <workItem from="1589693164358" duration="4062000" />
+      <workItem from="1589693164358" duration="4425000" />
     </task>
     <servers />
   </component>
@@ -137,22 +141,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1109" y="243" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1589695507247" />
-    <state width="1104" height="263" key="GridCell.Tab.0.bottom" timestamp="1589697227309">
+    <state width="1104" height="263" key="GridCell.Tab.0.bottom" timestamp="1589697590796">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1104" height="263" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1589697227309" />
-    <state width="1104" height="263" key="GridCell.Tab.0.center" timestamp="1589697227309">
+    <state width="1104" height="263" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1589697590796" />
+    <state width="1104" height="263" key="GridCell.Tab.0.center" timestamp="1589697590796">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1104" height="263" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1589697227309" />
-    <state width="1104" height="263" key="GridCell.Tab.0.left" timestamp="1589697227309">
+    <state width="1104" height="263" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1589697590796" />
+    <state width="1104" height="263" key="GridCell.Tab.0.left" timestamp="1589697590796">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1104" height="263" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1589697227309" />
-    <state width="1104" height="263" key="GridCell.Tab.0.right" timestamp="1589697227309">
+    <state width="1104" height="263" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1589697590796" />
+    <state width="1104" height="263" key="GridCell.Tab.0.right" timestamp="1589697590796">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1104" height="263" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1589697227309" />
+    <state width="1104" height="263" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1589697590796" />
     <state x="698" y="295" key="extract.method.dialog" timestamp="1589694380442">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
